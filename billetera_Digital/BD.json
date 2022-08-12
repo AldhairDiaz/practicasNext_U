@@ -1,0 +1,15 @@
+{
+    "user_cliente": [
+        {
+            "codigo": "aldhair",
+            "cant_total_cripto": 53,
+            "cant_total_USD": 0
+        }
+    ],
+    "user_admin": [
+        {
+            "can_total_cripto": 53,
+            "cant_total_USD": 0
+        }
+    ]
+}
